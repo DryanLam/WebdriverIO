@@ -6,3 +6,8 @@ Install
 Packages
 - npm init
 - npm i @wdio/cli
+
+
+Remove
+- rm -rf node_module
+
