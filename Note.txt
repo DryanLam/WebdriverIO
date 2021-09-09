@@ -7,7 +7,18 @@ Packages
 - npm init
 - npm i @wdio/cli
 
+Execute
+- npx wdio wdio.conf.ts
 
 Remove
 - rm -rf node_module
+
+Step Generation
+- Opt#1: Using TinyGherkin addon of Chrome to generate JS steps
+- Opt#2: Cuke Step Generation extention: highlight the step and press "Ctrl+Alt+C" to generate on clipboard
+
+Source Sample:
+- https://github.com/YOU54F/wdio-typescript/tree/master/src
+
+
 

@@ -10,7 +10,16 @@
     "webdriverio",
     "typescript",
     "cucumber",
-    "nodejs"
+    "nodejs",
+    "object",
+    "JSONPath",
+    "jsonpath",
+    "json-path",
+    "traversal",
+    "json",
+    "path",
+    "data structures",
+    "browser"
   ],
   "author": "Dryan",
   "license": "ISC",
