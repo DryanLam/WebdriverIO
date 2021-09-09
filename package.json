@@ -1,0 +1,20 @@
+{
+  "name": "webdriverio",
+  "version": "1.0.0",
+  "description": "Automation testing FW - BDD using WebdriverIO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webdriverio",
+    "typescript",
+    "cucumber",
+    "nodejs"
+  ],
+  "author": "Dryan",
+  "license": "ISC",
+  "dependencies": {
+    "@wdio/cli": "^7.12.2"
+  }
+}
