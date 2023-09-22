@@ -1,0 +1,6 @@
+CLI
+npx wdio run ./wdio.conf.ts
+
+Ex:
+npx wdio run ./wdio.conf.js --spec example.e2e.ts
+npx wdio run ./wdio.conf.js --suite exampleSuiteName
