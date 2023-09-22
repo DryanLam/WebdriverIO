@@ -38,6 +38,9 @@ DRIVER
 "installPath": "D:\\04-Prj\\00-Kobiton\\02-Code\\01-Auto\\WIP\\Dryan\\WebdriverIO\\node_modules\\appium-uiautomator2-driver"
 
 
-
-
+APPIUM DRIVER
+appium driver list --installed
+appium driver install uiautomator2
+APPIUM_SKIP_CHROMEDRIVER_INSTALL=1 npm install appium-chromedriver
+CHROMEDRIVER_VERSION=107.0.5304.62 npm install appium-chromedriver	https://www.npmjs.com/package/appium-chromedriver
 
