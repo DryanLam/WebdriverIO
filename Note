@@ -23,3 +23,21 @@ Then go to Test Explore and refresh
 Tests will appear.
 
 
+WEBDRIVERIO
+npm i --save-dev @wdio/cli
+npx wdio --version # prints e.g. `8.13.10`
+
+# Run configuration wizard
+npx wdio config
+
+ANDROID_HOME
+C:\Users\dunglam\AppData\Local\Android\sdk
+
+DRIVER
+"installSpec": "appium-uiautomator2-driver@2.29.9",
+"installPath": "D:\\04-Prj\\00-Kobiton\\02-Code\\01-Auto\\WIP\\Dryan\\WebdriverIO\\node_modules\\appium-uiautomator2-driver"
+
+
+
+
+
