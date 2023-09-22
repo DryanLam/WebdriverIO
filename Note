@@ -1,9 +1,25 @@
 INSTALLATION
-*GLOBAL
+* GLOBAL
 npm install -g typescript
 npm install -g ts-node
 
-*PROJECT
+* PROJECT
 npm i mocha chai @types/mocha @types/chai --save-dev
 npm i ts-node --save-dev
 tsc --init OR npm run tsc -- --init 
+
+* MOCHA DEBUG
+VSC EXTENSION
+Compulim.vscode-mocha
+hbenl.vscode-mocha-test-adapter
+hbenl.vscode-test-explorer
+ms-vscode.test-adapter-converter
+
+MOCHA CONFIGURATION
+.mocharc.json
+launch.json
+
+Then go to Test Explore and refresh
+Tests will appear.
+
+
