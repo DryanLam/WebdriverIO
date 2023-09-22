@@ -1,6 +1,0 @@
-{
-    "reporter": "spec",
-    "require": ["ts-node/register"],
-    "timeout": "100000",
-    "spec": "tests/**/*.ts"
-}
