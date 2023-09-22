@@ -10,7 +10,7 @@
             "request": "launch",
             "program": "${workspaceRoot}/node_modules/mocha/bin/_mocha",
             "stopOnEntry": false,
-            "args": [ "-r", "ts-node/register", "${file}", "--no-timeouts", "--inspect-brk"],
+            "args": [ "-r", "ts-node/register", "${file}", "--no-timeouts"],
             "cwd": "${workspaceRoot}",
             "internalConsoleOptions": "openOnSessionStart",
             "skipFiles": [
